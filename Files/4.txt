@@ -1,0 +1,1 @@
+Max 2000 pixels in each dimension
